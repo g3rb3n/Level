@@ -1,3 +1,3 @@
 # Level
 
-A two dimensional water level based on the MPU9250 for sensing gravity and the SSD1306 for displaying.
+A simple level util as demonstration of combining the MPU9250 gravity sensor with the SSD1306 OLED display. 
